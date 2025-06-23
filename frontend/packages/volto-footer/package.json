@@ -1,7 +1,7 @@
 {
-  "name": "volto-footer",
+  "name": "@plone-collective/volto-footer",
   "version": "1.0.0-alpha.0",
-  "description": "A new project using Plone 6.",
+  "description": "Volto editable footer",
   "main": "src/index.js",
   "license": "MIT",
   "keywords": [
@@ -10,11 +10,11 @@
     "plone",
     "react"
   ],
-  "author": "Plone Foundation",
-  "homepage": "https://github.com/collective/volto-footer-project#readme",
+  "author": "Plone Community",
+  "homepage": "https://github.com/collective/volto-footer#readme",
   "repository": {
     "type": "git",
-    "url": "git@github.com:collective/volto-footer-project"
+    "url": "git@github.com:collective/volto-footer"
   },
   "publishConfig": {
     "access": "public"

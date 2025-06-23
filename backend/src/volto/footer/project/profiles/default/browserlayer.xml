@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <layers>
-  <layer interface="volto.footer.project.interfaces.IBrowserLayer"
-         name="volto.footer.project"
-  />
+  <layer
+      name="volto.footer.project"
+      interface="volto.footer.project.interfaces.IBrowserLayer"
+      />
 </layers>
