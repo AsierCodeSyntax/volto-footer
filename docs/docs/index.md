@@ -1,16 +1,16 @@
 ---
 myst:
   html_meta:
-    "description": "Volto editable footer"
-    "property=og:description": "Volto editable footer"
-    "property=og:title": "Volto Footer"
-    "keywords": "Volto Footer, documentation, Volto editable footer"
+    "description": "A new project using Plone 6."
+    "property=og:description": "A new project using Plone 6."
+    "property=og:title": "volto-footer-project"
+    "keywords": "volto-footer-project, documentation, A new project using Plone 6."
 ---
 
-# Volto Footer
+# volto-footer-project
 
-Welcome to the documentation for Volto Footer!
-Volto editable footer
+Welcome to the documentation for volto-footer-project!
+A new project using Plone 6.
 
 This scaffold provides a ready-to-use environment for creating comprehensive documentation for {term}`Plone` projects, based on {term}`Plone Sphinx Theme`.
 

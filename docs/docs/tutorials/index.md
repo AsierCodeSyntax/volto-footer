@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    "description": "Volto Footer Tutorials"
-    "property=og:description": "Volto Footer Tutorials"
-    "property=og:title": "Volto Footer Tutorials"
-    "keywords": "Plone, Volto Footer, tutorials"
+    "description": "volto-footer-project Tutorials"
+    "property=og:description": "volto-footer-project Tutorials"
+    "property=og:title": "volto-footer-project Tutorials"
+    "keywords": "Plone, volto-footer-project, tutorials"
 ---
 
 # Tutorials

@@ -1,10 +1,10 @@
 ---
 myst:
   html_meta:
-    "description": "Volto Footer Reference"
-    "property=og:description": "Volto Footer Reference"
-    "property=og:title": "Volto Footer Reference"
-    "keywords": "Plone, _Volto Footer,_ reference"
+    "description": "volto-footer-project Reference"
+    "property=og:description": "volto-footer-project Reference"
+    "property=og:title": "volto-footer-project Reference"
+    "keywords": "Plone, _volto-footer-project,_ reference"
 ---
 
 # Reference

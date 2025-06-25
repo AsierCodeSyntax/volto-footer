@@ -1,0 +1,37 @@
+[repository]
+name = "volto-footer-project"
+managed_by_uv = false
+changelog = "CHANGELOG.md"
+version = "version.txt"
+compose = "docker-compose.yml"
+
+[repository.towncrier]
+section = "Project"
+settings = "towncrier.toml"
+
+[backend]
+path = "backend"
+
+[backend.package]
+name = "volto.footer.project"
+path = "backend"
+changelog = "backend/CHANGELOG.md"
+towncrier_settings = "backend/pyproject.toml"
+base_package = "Products.CMFPlone"
+publish = false
+
+[frontend]
+path = "frontend"
+
+[frontend.package]
+name = "volto-footer"
+path = "frontend/packages/volto-footer"
+changelog = "frontend/packages/volto-footer/CHANGELOG.md"
+towncrier_settings = "frontend/packages/volto-footer/towncrier.toml"
+base_package = "@plone/volto"
+publish = false
+
+[cookieplone]
+template = "project"
+template_version = "a929949d0fe99f6b34b86a001d6a46e49c8f8c05"
+generated_date = "2025-06-23 06:24:10"
